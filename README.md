@@ -1,6 +1,6 @@
 # Steam Game Price Tracker/Alerter
-<sub> the name is still a wip... </sub>
 By: Charlotte C 😃
+the name is still a wip...
 
 --------------------------------------------------------
 
